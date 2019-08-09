@@ -1,4 +1,4 @@
-# processing-flowers
+# Flower Vase Drawing (made with Processing JS)
 Flowers in a vase drawn with p5.js
 4/3/2016
 
